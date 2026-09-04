@@ -947,6 +947,24 @@
         ]
       }
     },
+    "taskbullet-agent": {
+      "sha": "a27e3e1cfc7952f6524ce82c773384e9b349c659",
+      "version": "1.0.0",
+      "components": {
+        "mcpServers": [
+          {
+            "name": "taskbullet-agent",
+            "description": "http"
+          }
+        ],
+        "skills": [
+          {
+            "name": "escalate-to-va",
+            "description": "Escalate work a language model cannot finish to a TaskBullet human virtual assistant via delegate_task. Use when the ta…"
+          }
+        ]
+      }
+    },
     "tavily": {
       "sha": "0cfd0c2be2df4a2a90c683abaadaf36ef7f2f59d",
       "version": "1.0.0",
