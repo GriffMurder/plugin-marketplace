@@ -301,7 +301,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/GriffMurder/taskbullet-agent-plugin.git",
-        "sha": "a27e3e1cfc7952f6524ce82c773384e9b349c659"
+        "sha": "c62be95401d45a7ab6fb6de2e633720c8e6078f1"
       },
       "homepage": "https://taskbullet.com/docs/agent-api",
       "keywords": ["taskbullet", "taskbullet agent", "taskbullet va", "delegate_task"],
