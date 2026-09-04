@@ -948,7 +948,7 @@
       }
     },
     "taskbullet-agent": {
-      "sha": "14677276ae328b5c14ac71bb96c16ebbeee7fad9",
+      "sha": "fd7dd1aa09b097b53c2d05b2d725b9e061955438",
       "version": "1.0.1",
       "components": {
         "mcpServers": [
